@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Link from "next/link"
 import { ArrowRight, Code2, Boxes } from "lucide-react"
 import TrustedBrands from "@/components/frontend/brands";
@@ -64,7 +64,7 @@ export default function Home() {
                 </div>
                 <div className="p-6 bg-zinc-900/50 backdrop-blur-sm rounded-2xl border border-zinc-800">
                   <h3 className="text-3xl font-bold text-white">200+</h3>
-                  <p className="text-zinc-200">Projects Delivered</p>
+                  <p className="text-zinc-200">Project Delivered</p>
                 </div>
               </div>
             </div>
