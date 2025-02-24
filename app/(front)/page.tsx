@@ -3,6 +3,7 @@ import Link from "next/link"
 import { ArrowRight, Code2, Boxes } from "lucide-react"
 import TrustedBrands from "@/components/frontend/brands";
 import AboutUs from "@/components/frontend/about";
+import Services from "@/components/frontend/services";
 
 export default function Home() {
   return (
@@ -74,6 +75,7 @@ export default function Home() {
     </section>
     <TrustedBrands />
     <AboutUs />
+    <Services />
  
 
 
